@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# HRMS-and-Payroll-Management
-=======
+
 # HRMS Project
 
 This is a full-stack Human Resource Management System (HRMS) application built with Spring Boot, MySQL, Angular, and Bootstrap. The project supports three user roles—**Admin**, **Manager**, and **Employee**—and provides role-based modules and dashboards.
